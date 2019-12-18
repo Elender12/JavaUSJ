@@ -1,0 +1,2 @@
+# JavaUSJ
+Java exercises repository
